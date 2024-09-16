@@ -1,6 +1,9 @@
 # Hello World 👋  
-**Tarjanee Desai**  
-Harrison, NJ | [LinkedIn](https://www.linkedin.com/in/tarjanee-desai/) | [GitHub](https://github.com/yourusername) | tarjaneed@gmail.com  
+**Tarjanee Desai**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarjanee-desai/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarjaneed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarjaneed@gmail.com)
 
 I am a **Full Stack Developer, Front End Engineer, and Mobile Application Developer** with over **7+ years of experience** in mobile and web application development. Currently, I’m pursuing a **Master of Science in Computer Science** at Pace University with a focus on **Full Stack & Mobile Development**, and I’m on track to graduate in **December 2024**.
 
