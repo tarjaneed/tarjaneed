@@ -48,4 +48,4 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 ### Screentact:  
 - Created a social media app with a screen-time limiting feature, presented to professionals from **Meta** and **Spotify**.
 
-** Let's connect! **
+**Let's connect!**
