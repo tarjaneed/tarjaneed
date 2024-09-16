@@ -53,5 +53,4 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 
 ---
 
-## Cheers!  
-**Tarjanee Desai**
+## Let's connect!
