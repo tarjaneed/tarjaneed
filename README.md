@@ -9,7 +9,6 @@ I am a **Full Stack Developer, Front End Engineer, and Mobile Application Develo
 
 Throughout my career, I’ve led teams to build enterprise-level applications, managed projects, and streamlined processes to enhance both **user experience** and **organizational efficiency**. I’m passionate about developing scalable, responsive applications using modern technologies like **React, React Native, Node.js, and Firebase**.
 
----
 
 ## Technologies & Skills:
 - **Frontend Development:**  
@@ -27,7 +26,6 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 - **Testing & CI/CD:**  
   Jest, Snapshots, Bitrise, Jenkins, qTest  
 
----
 
 ## Professional Experience:
 ### Full Stack Developer Intern - KeeperAI  
@@ -39,7 +37,6 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 ### Senior Mobile & Web App Developer - Bcube Solutions  
 - Developed multilingual mobile apps with internationalization features, incorporating AI chatbots to enhance user interaction.
 
----
 
 ## Academic Projects:
 ### EzCars:  
@@ -50,7 +47,5 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 
 ### Screentact:  
 - Created a social media app with a screen-time limiting feature, presented to professionals from **Meta** and **Spotify**.
-
----
 
 ## Let's connect!
