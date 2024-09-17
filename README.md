@@ -28,13 +28,13 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 
 
 ## Professional Experience:
-### Full Stack Developer Intern - KeeperAI  
+### Senior Full Stack Software Engineer - KeeperAI  
 - Managed a team of developers, enhanced user experience by resolving bugs, and led the implementation of **Single Sign-On** for MS Teams using **React, Node.js, and Firebase**.
 
-### Lead Mobile & Web App Developer - Tecocraft Infusion Pvt Ltd  
+### Lead Software and Mobile Engineer - Tecocraft Infusion Pvt Ltd  
 - Led a team of 15 developers in building 15+ applications for global fintech and healthcare clients, improving **development time** by 25% through reusable components and CI/CD pipelines.
 
-### Senior Mobile & Web App Developer - Bcube Solutions  
+### Senior Software and Mobile Engineer - Bcube Solutions  
 - Developed multilingual mobile apps with internationalization features, incorporating AI chatbots to enhance user interaction.
 
 
