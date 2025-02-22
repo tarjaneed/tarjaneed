@@ -9,7 +9,7 @@ I am a **Full Stack Developer, Front End Engineer, and Mobile Application Develo
 
 Throughout my career, I’ve led teams to build enterprise-level applications, managed projects, and streamlined processes to enhance both **user experience** and **organizational efficiency**. I’m passionate about developing scalable, responsive applications using modern technologies like **React, React Native, Node.js, and Firebase**.
 
-**Portfolio - ** https://tarjanee-desai-portfolio.netlify.app/
+**Portfolio -** https://tarjanee-desai-portfolio.netlify.app/
 
 ## Technologies & Skills:
 - **Frontend Development:**  
