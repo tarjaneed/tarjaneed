@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarjaneed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarjaneed@gmail.com)
 
-I am a **Full Stack Developer, Front End Engineer, and Mobile Application Developer** with over **7+ years of experience** in mobile and web application development. Currently, I’m pursuing a **Master of Science in Computer Science** at Pace University with a focus on **Full Stack & Mobile Development**, and I’m on track to graduate in **December 2024**.
+I am a **Full Stack Developer, Front End Engineer, and Mobile Application Developer** with over **7+ years of experience** in mobile and web application development. I hold a **MS in Computer Science** from Pace University with a focus on **Full Stack & Mobile Development**.
 
 Throughout my career, I’ve led teams to build enterprise-level applications, managed projects, and streamlined processes to enhance both **user experience** and **organizational efficiency**. I’m passionate about developing scalable, responsive applications using modern technologies like **React, React Native, Node.js, and Firebase**.
 
@@ -29,24 +29,29 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 
 
 ## Professional Experience:
+### Senior Software Engineer - Shoptaki  
+- Implemented reusable component library for SmartID with TypeScript & Storybook, reducing development time by 20% & maintaining UI consistency across web & mobile apps, enhancing scalability
+Developed e-commerce interfaces with React, Redux & React Native, ensuring efficient state management, improving user engagement & transaction efficiency by 15%
+Designed REST APIs using Node.js with ArangoDB, optimizing graph data structures to improve data retrieval & reducing processing time by 25%
+
 ### Senior Full Stack Software Engineer - KeeperAI  
 - Managed a team of developers, enhanced user experience by resolving bugs, and led the implementation of **Single Sign-On** for MS Teams using **React, Node.js, and Firebase**.
 
 ### Lead Software and Mobile Engineer - Tecocraft Infusion Pvt Ltd  
-- Led a team of 15 developers in building 15+ applications for global fintech and healthcare clients, improving **development time** by 25% through reusable components and CI/CD pipelines.
+- Led a team of 15 developers in building 15+ applications for global fintech and healthcare clients, improving **development time** by 25% through reusable components and CI/CD pipelines
 
 ### Senior Software and Mobile Engineer - Bcube Solutions  
-- Developed multilingual mobile apps with internationalization features, incorporating AI chatbots to enhance user interaction.
+- Developed multilingual mobile apps with internationalization features, incorporating AI chatbots to enhance user interaction
 
 
 ## Academic Projects:
 ### EzCars:  
-- A web-based platform for browsing and renting vehicles for a single rental agency, built using **React JS**.
+- A web-based platform for browsing and renting vehicles for a single rental agency, built using **React JS**
 
 ### Spend Wise Expense Tracker:  
-- Led a team to develop a user-friendly financial management app, boosting user efficiency by 20%.
+- Led a team to develop a user-friendly financial management app, boosting user efficiency by 20%
 
 ### Screentact:  
-- Created a social media app with a screen-time limiting feature, presented to professionals from **Meta** and **Spotify**.
+- Created a social media app with a screen-time limiting feature, presented to professionals from **Meta** and **Spotify**
 
 **Let's connect!**
