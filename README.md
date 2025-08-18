@@ -31,8 +31,8 @@ Throughout my career, I’ve led teams to build enterprise-level applications, m
 ## Professional Experience:
 ### Senior Software Engineer - Shoptaki  
 - Implemented reusable component library for SmartID with TypeScript & Storybook, reducing development time by 20% & maintaining UI consistency across web & mobile apps, enhancing scalability
-Developed e-commerce interfaces with React, Redux & React Native, ensuring efficient state management, improving user engagement & transaction efficiency by 15%
-Designed REST APIs using Node.js with ArangoDB, optimizing graph data structures to improve data retrieval & reducing processing time by 25%
+- Developed e-commerce interfaces with React, Redux & React Native, ensuring efficient state management, improving user engagement & transaction efficiency by 15%
+- Designed REST APIs using Node.js with ArangoDB, optimizing graph data structures to improve data retrieval & reducing processing time by 25%
 
 ### Senior Full Stack Software Engineer - KeeperAI  
 - Managed a team of developers, enhanced user experience by resolving bugs, and led the implementation of **Single Sign-On** for MS Teams using **React, Node.js, and Firebase**.
